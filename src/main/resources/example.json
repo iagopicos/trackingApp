@@ -1,0 +1,24 @@
+{
+  "orderTracking": [
+    {
+      "orderId": 1234,
+      "trackId": 0,
+      "status": "EN_REPARTO"
+    },
+    {
+      "orderId": 5678,
+      "trackId": 1,
+      "status": "EN_REPARTO"
+    },
+    {
+      "orderId": 9876,
+      "trackId": 2,
+      "status": "RECOGIDO_EN_ALMACEN"
+    },
+    {
+      "orderId": 54321,
+      "trackId": 3,
+      "status": "ENTREGADO"
+    }
+  ]
+}
